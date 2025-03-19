@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../ASP.NET-MVC-Entity-Framework"
+		},
+		{
+			"path": "../../../.git"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../car"
+		}
+	],
+	"settings": {}
+}
